@@ -2,6 +2,8 @@
 
 This example repo has three applications the work together to use Vue Micro-FEs in both another Vue host application as well as in a vanilla host application.
 
+reference: [Simplified Micro-Frontends in Vue](https://youtu.be/YQvQwTAqXE8?si=CLUB-EqBEqsFe8_3)
+
 # Installation
 
 ```sh
